@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2023-04-08
+categories: welcome
+---
+
+Welcome to my site! Here you can find information about me and my research, as well as other projects I am involved in, articles I find interesting, relevant events, and any other item that feels useful in some way.
