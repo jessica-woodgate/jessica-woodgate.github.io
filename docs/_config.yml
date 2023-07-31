@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jessica Woodgate
-email: yp19484@bristol.ac.uk
+email: jessica.woodgate@bristol.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Current Ph.D. student at the University of Bristol, researching AI ethics.
 baseurl: "jessica-woodgate.github.io" # the subpath of your site, e.g. /blog
