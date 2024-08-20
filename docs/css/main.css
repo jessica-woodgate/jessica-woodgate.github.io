@@ -37,15 +37,16 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
+ul.publications-list {
+    font-family: 'Avenir', 'Helvetica', 'Arial';
+}
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-    font-family: 'Avenir', 'Helvetica', 'Arial';
 }
 
 ul.posts li {
     list-style: none;
-    font-family: 'Avenir', 'Helvetica', 'Arial';
 }
 
 hr.solid {
