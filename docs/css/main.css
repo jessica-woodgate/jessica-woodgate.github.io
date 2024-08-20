@@ -20,11 +20,11 @@ a:hover {
     text-decoration: underline;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Avenir', 'Arial', sans-serif;
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Avenir', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 18px;
@@ -37,14 +37,15 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    font-family: 'Avenir', 'Helvetica', 'Arial';
 }
 
 ul.posts li {
     list-style: none;
+    font-family: 'Avenir', 'Helvetica', 'Arial';
 }
 
 hr.solid {
