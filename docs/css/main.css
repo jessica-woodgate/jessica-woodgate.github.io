@@ -37,7 +37,7 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-ul.publications-list {
+ul.publications-list li {
     font-family: 'Avenir', 'Helvetica', 'Arial';
 }
 ul.posts { 
