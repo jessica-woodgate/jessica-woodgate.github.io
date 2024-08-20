@@ -38,8 +38,8 @@ footer {
     font-size: .8em;
 }
 ul.publications-list li {
-    font-size: 12px;
-    letter-spacing: 2px;
+    font-size: 10px;
+    letter-spacing: 3px;
     font-family: 'Avenir', 'Helvetica', 'Arial';
 }
 ul.posts { 
