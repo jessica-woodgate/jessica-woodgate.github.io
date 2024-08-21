@@ -37,6 +37,11 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
+i.dates {
+    letter-spacing: 1px;
+    font-family: 'Avenir', 'Helvetica', 'Arial';
+}
+
 ul.publications-list li {
     font-size: 14px;
     letter-spacing: 1px;
