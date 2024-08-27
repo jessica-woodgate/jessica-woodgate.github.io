@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Roboto', 'Arial', 'Sans-Serif';
+    font-family:'Montserrat', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -20,18 +20,18 @@ a:hover {
     text-decoration: underline;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Roboto', 'Arial', 'sans-serif';
+    font-family: 'Montserrat', 'Arial', 'sans-serif';
 }
 h1 {
     font-size: 3em;
-    font-family:'Roboto', 'Arial', 'Sans-Serif';
+    font-family:'Montserrat', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 18px;
     line-height: 1.4em;
     color: #333;
-    letter-spacing: 1.5px;
-    font-family: 'Roboto', 'Helvetica', 'Arial';
+    letter-spacing: 1px;
+    font-family: 'Montserrat', 'Helvetica', 'Arial';
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -39,17 +39,17 @@ footer {
 }
 address {
     letter-spacing: 1px;
-    font-family: 'Roboto', 'Helvetica', 'Arial';
+    font-family: 'Montserrat', 'Helvetica', 'Arial';
 }
 i.dates {
     letter-spacing: 1px;
-    font-family: 'Roboto', 'Helvetica', 'Arial';
+    font-family: 'Montserrat', 'Helvetica', 'Arial';
 }
 
 ul.publications-list li {
     font-size: 14px;
     letter-spacing: 1px;
-    font-family: 'Roboto', 'Helvetica', 'Arial';
+    font-family: 'Montserrat', 'Helvetica', 'Arial';
 }
 ul.posts { 
     margin: 20px auto 40px; 
