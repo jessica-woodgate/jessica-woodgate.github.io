@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Montserrat', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -20,18 +20,18 @@ a:hover {
     text-decoration: underline;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Montserrat', 'Arial', 'sans-serif';
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 h1 {
     font-size: 3em;
-    font-family:'Montserrat', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 18px;
     line-height: 1.4em;
     color: #333;
     letter-spacing: 1px;
-    font-family: 'Montserrat', 'Helvetica', 'Arial';
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -39,17 +39,17 @@ footer {
 }
 address {
     letter-spacing: 1px;
-    font-family: 'Montserrat', 'Helvetica', 'Arial';
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 i.dates {
     letter-spacing: 1px;
-    font-family: 'Montserrat', 'Helvetica', 'Arial';
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 ul.publications-list li {
     font-size: 14px;
     letter-spacing: 1px;
-    font-family: 'Montserrat', 'Helvetica', 'Arial';
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 ul.posts { 
     margin: 20px auto 40px; 
