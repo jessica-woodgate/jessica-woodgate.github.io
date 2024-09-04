@@ -1,15 +1,18 @@
-.merriweather-light {
-    font-family: "Merriweather", serif;
-    font-weight: 300;
-    font-style: normal;
-    }
+body,
+nav ul, footer ul,
+h1, h2, h3, h4, h5, h6,
+p,
+address,
+i.dates,
+ul.publications-list li {
+  font-family: Merriweather, Arial, sans-serif;
+}
 
 body {
     margin: 60px auto;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'merriweather-light', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -25,33 +28,20 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'merriweather-light', 'Arial', 'Sans-Serif';
-}
 h1 {
     font-size: 3em;
-    font-family:'merriweather-light', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 18px;
     line-height: 1.4em;
     color: #333;
-    font-family: 'merriweather-light', 'Arial', 'Sans-Serif';
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-address {
-    font-family: 'merriweather-light', 'Arial', 'Sans-Serif';
-}
-i.dates {
-    font-family: 'merriweather-light', 'Arial', 'Sans-Serif';
-}
-
 ul.publications-list li {
     font-size: 14px;
-    font-family: 'merriweather-light', 'Arial', 'Sans-Serif';
 }
 ul.posts { 
     margin: 20px auto 40px; 
