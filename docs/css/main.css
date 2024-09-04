@@ -1,3 +1,9 @@
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+    }
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -30,7 +36,6 @@ p {
     font-size: 18px;
     line-height: 1.4em;
     color: #333;
-    letter-spacing: 1px;
     font-family: 'merriweather-light', 'Arial', 'Sans-Serif';
 }
 footer {
@@ -38,17 +43,14 @@ footer {
     font-size: .8em;
 }
 address {
-    letter-spacing: 1px;
     font-family: 'merriweather-light', 'Arial', 'Sans-Serif';
 }
 i.dates {
-    letter-spacing: 1px;
     font-family: 'merriweather-light', 'Arial', 'Sans-Serif';
 }
 
 ul.publications-list li {
     font-size: 14px;
-    letter-spacing: 1px;
     font-family: 'merriweather-light', 'Arial', 'Sans-Serif';
 }
 ul.posts { 
@@ -63,9 +65,3 @@ ul.posts li {
 hr.solid {
     border-top: 3px solid #bbb;
   }
-
-.merriweather-light {
-font-family: "Merriweather", serif;
-font-weight: 300;
-font-style: normal;
-}
