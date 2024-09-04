@@ -6,6 +6,13 @@ address,
 i.dates,
 ul.publications-list li {
   font-family: Merriweather, Arial, sans-serif;
+}
+
+body,
+nav ul, footer ul,
+h1, h2, h3, h4, h5, h6,
+address,
+ul.publications-list li {
   letter-spacing: 1px;
 }
 
