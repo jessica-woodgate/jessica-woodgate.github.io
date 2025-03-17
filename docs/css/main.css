@@ -63,3 +63,10 @@ ul.posts li {
 hr.solid {
     border-top: 3px solid #bbb;
   }
+
+.centered-video {
+      width: 70%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+  }
